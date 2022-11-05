@@ -1,4 +1,6 @@
 ### Holo ! 👋
+![Rosa y Marrón Gato Tierno Emote de Twitch](https://user-images.githubusercontent.com/93297414/200097641-4ea5ebc5-fab1-46f3-8ac3-cc79f85bcbf9.png)
+
 ✨ Soy solo un fantasma curioso. ✨
 En mi vida mortal soy estudiante de computación
 
