@@ -1,7 +1,5 @@
 ### Holo ! 👋
 
-✨ Soy solo un fantasma curioso. ✨
-En mi vida mortal soy estudiante de computación
 
 ![cat](https://user-images.githubusercontent.com/93297414/200097113-5c624b56-7e46-449f-b7b4-9e2815067d41.gif)
 
